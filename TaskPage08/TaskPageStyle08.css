@@ -1,0 +1,128 @@
+@font-face {
+    font-family: "Inter";
+    src: url(./Font/Inter.ttf);
+}
+
+#Section_1{
+    border: 1px solid rgba(220, 220, 220, 1);
+    height: 311px;
+    width: 777px;
+    margin-top: 18px;
+    margin-left: 41px;
+    border-radius: 20px;
+    position: relative;
+}
+
+#Coin{
+    width: 237px;
+    height: 184px;
+    position: absolute;
+    top: 63px;
+    left: 23px;
+}
+
+#SecTitle_1{
+    color: rgba(0, 0, 0, 1);
+    height: 40px;
+    width: 273px;
+    top: 63px;
+    left: 287px;
+    position: absolute;
+    margin-block-start: 0px;
+    font-family: "Inter";
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+}
+
+#TextSec_1{
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    width: 468px;
+    height: 98px;
+    top: 103px;
+    left: 287px;
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22.99px;
+}
+
+#ReadMore_1{
+    height: 25px;
+    width: 109px;
+    position: absolute;
+    top: 248px;
+    left: 646px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: rgba(80, 118, 255, 1);
+}
+
+#Line{
+    margin-top: 47px;
+    border: 2px solid rgba(223, 223, 223, 1);
+    height: 0px;
+    width: 1356px;
+}
+
+#Section_2{
+    border: 1px solid rgba(220, 220, 220, 1);
+    width: 777px;
+    height: 311px;
+    margin-left: 606px;
+    margin-top: 43px;
+    border-radius: 20px;
+    position: relative;
+}
+
+#SecTitle_2{
+    position: absolute;
+    width: 273px;
+    height: 40px;
+    top: 63px;
+    left: 27px;
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36.31px;
+}
+#TextSec_2{
+    position: absolute;
+    width: 468px;
+    height: 98px;
+    top: 103px;
+    left: 27px;
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22.99px;
+}
+
+#HeadPhone{
+    position: absolute;
+    background-image: linear-gradient(0deg, #DCDCDC, #DCDCDC)
+    linear-gradient(0deg, #FAFAFA, #FAFAFA);
+    height: 258px;
+    width: 258px;
+    top: 15px;
+    left: 495px;
+}
+
+#ReadMore_2{
+    position: absolute;
+    height: 25px;
+    width: 109px;
+    top: 248px;
+    left: 386px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: rgba(80, 118, 255, 1);
+}
